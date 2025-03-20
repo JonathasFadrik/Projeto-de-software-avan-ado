@@ -1,0 +1,2 @@
+# Projeto-de-software-avan-ado
+PARADIGMAS EM PROJETO DE SOFTWARE ESTRATÉGICO OBJETIVOS
