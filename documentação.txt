@@ -1,0 +1,2 @@
+css
+wste é um arquivo de teste para demonstrar a gestão de artefatos
